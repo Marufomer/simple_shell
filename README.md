@@ -1,1 +1,1 @@
-hi these group project on simple shell!!.
+hi these group project on simple shell!.
